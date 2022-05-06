@@ -1,4 +1,4 @@
-<h2> Hi, I'm Lívia Oliveira <img src="https://i.redd.it/3u0hkzmg49r71.gif" width="30"></h2>
+<h2> Hi, I'm Lívia Oliveira <img src="https://i.redd.it/3u0hkzmg49r71.gif" width="60"></h2>
 <p><em>Front-end Develop</p>
 
 <div align="center">
