@@ -1,5 +1,5 @@
 <h2> Hi, I'm Lívia Oliveira <img src="https://i.gifer.com/origin/55/55d401d158f728acc5027ec5b4e8bfbb_w200.webp" width="30"></h2>
-<p><em>Front-end Develop</p>
+<p><em>Front-end Developer</p>
 
 <div align="center">
 </div>
