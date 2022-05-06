@@ -1,9 +1,7 @@
-<h2> Olá, sou a Lívia <img src="https://i.gifer.com/origin/55/55d401d158f728acc5027ec5b4e8bfbb_w200.webp" width="30"></h2>
-<p><em>Desenvolvedora Front-End</p>
+<h2> I´m Lívia <img src="https://i.gifer.com/origin/55/55d401d158f728acc5027ec5b4e8bfbb_w200.webp" width="30"></h2>
+<p><em>Frontend Develop</p>
 
 <div align="center">
-  <a href="https://github.com/livia-oliveira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=livia-oliveira&show_icons=true&theme=panda&include_all_commits=true&count_private=true"/>
 </div>
 </div>
   
