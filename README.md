@@ -4,8 +4,10 @@
 </h3>
  
 <div align="center">
+  <p><em> Developer Júnior Front-End</em></p>
+  <img src="https://images.gamebanana.com/img/ico/sprays/5ffcd5b6446cc.gif" width="40"><p>ReactJS</p><img            src="https://images.gamebanana.com/img/ico/sprays/5ffcd5b6446cc.gif" width="40">
 </div>
-</div>
+
   
   
   ### <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="30"> ...
