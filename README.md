@@ -8,8 +8,8 @@
 </h3>
 <div align="center">
   <p><em>I want to reach the next level in my programming career. Do you want to propose a new challenge?</em></p>
+  <img src="https://cdnb.artstation.com/p/assets/images/images/011/517/171/original/isa-deu-idle-blink570.gif?1529988721" width="100">
 </div>
-
 
 
 
