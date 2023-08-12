@@ -11,8 +11,6 @@
 </div>
 <br>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/HTML.svg" width="30" >
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/CSS.svg" width="30" >
    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/JavaScript.svg" width="30" >
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/TypeScript.svg" width="30" >
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/React-Dark.svg" width="30" >
