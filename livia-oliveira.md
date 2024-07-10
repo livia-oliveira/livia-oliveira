@@ -6,6 +6,7 @@
 <h3 align="center">
   Hi, I'm Lívia Oliveira
 </h3>
+
 <div align="center">
   <p><em>I want to reach the next level in my programming career. Do you want to propose me a new challenge?</em></p>
 </div>
