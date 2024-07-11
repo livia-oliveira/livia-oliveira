@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/livia-oliveira/livia-oliveira/assets/91535618/fd61babd-17ff-46d4-b161-34c1599f279b">
+  <img src="https://github.com/livia-oliveira/livia-oliveira/assets/91535618/e89fc500-b366-4861-a909-d7f0325ef4bf">
 </div>
 <h3 align="center">
   Hi, I'm Lívia
