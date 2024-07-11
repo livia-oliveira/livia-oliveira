@@ -19,13 +19,23 @@
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Laravel-Dark.svg" width="30" >
 <p/>
 <div >
-<h3 >
- About Me
-</h3> 
+<h3 >About Me</h3> 
 <pre>
    👩‍💻 Java Programmer
    🎮 Fan of Pixel Art Platformer Games
    🍓 Love Strawberries!
+</pre>
+<br>
+<h3 >Skills</h3> 
+<pre>
+   Languages: Java, JavaScript, TypeScript
+   Frameworks/Libraries: React.js, Spring Boot, Laravel
+   Tools/Platforms: GitHub, Figma
+</pre>
+<br>
+<h3 >Contact Me</h3>
+<pre>
+   📧 Email: livia0liveirasilva55@gmail.com
 </pre>
 
 <img alt="Lívia GitHub stats" src="https://github-readme-stats.vercel.app/api?username=livia-oliveira&show_icons=true&theme=calm_pink"/>
