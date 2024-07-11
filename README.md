@@ -39,7 +39,7 @@
 </pre>
 <br>
 <img alt="Lívia GitHub stats" src="https://github-readme-stats.vercel.app/api?username=livia-oliveira&show_icons=true&theme=buefy"/>
-<img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=livia-oliveira&theme=buefy" >
+<img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=livia-oliveira&theme=buefy&card_width=480" >
 <br>
 <br>
 <p align="center">
