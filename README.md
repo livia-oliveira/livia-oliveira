@@ -40,7 +40,7 @@
 <br>
 <div style="display: flex; justify-content: center; gap: 20px;">
 <img alt="Lívia GitHub stats" src="https://github-readme-stats.vercel.app/api?username=livia-oliveira&show_icons=true&theme=buefy&card_width=300"/>
-<img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=livia-oliveira&theme=buefy&card_width=440" >
+<img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=livia-oliveira&theme=buefy&card_width=350" >
 </div>
 <br>
 <br>
