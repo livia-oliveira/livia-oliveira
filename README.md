@@ -7,8 +7,8 @@
 
 </h3>
 <div align="center">
-  <p><em>Leveling up my programming skills, one pixel at a time</em></p>
-  <p><em>I want to reach the next level in my programming career. Do you want to propose me a new challenge?</em></p>
+  <p><em>Desenvolvedora de Software Full Stack focada em soluções modernas</em></p>
+  <p><em>Buscando constantemente novos desafios e aprendizados no desenvolvimento web.</em></p>
 </div>
 <br>
 <p align="center">
