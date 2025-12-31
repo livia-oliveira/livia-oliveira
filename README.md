@@ -2,7 +2,7 @@
   <img src="https://github.com/user-attachments/assets/a9b6905e-3944-4822-a93d-fe2f1dae7208">
 </div>
 <h3 align="center">
-  Hi, I'm Lívia!
+  Olá, sou Lívia e seja bem vindo ao meu perfil!
 
 
 </h3>
