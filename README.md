@@ -1,8 +1,9 @@
 <div align="center">
-  <img src="https://github.com/livia-oliveira/livia-oliveira/assets/91535618/e89fc500-b366-4861-a909-d7f0325ef4bf">
+  <img src="https://github.com/user-attachments/assets/f724fa78-ff2a-46b3-bf5e-92bed4214416">
 </div>
 <h3 align="center">
   Hi, I'm Lívia
+
 </h3>
 <div align="center">
   <p><em>Leveling up my programming skills, one pixel at a time</em></p>
