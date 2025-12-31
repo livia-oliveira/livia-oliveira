@@ -19,9 +19,9 @@
 <div >
 <h3 >About Me</h3> 
 <pre>
-   👩‍💻 Java Programmer
-   🎮 Fan of Pixel Art Platformer Games
-   🍓 Love Strawberries!
+   👩‍💻 Desenvolvedora Full Stack
+   🎮 Fã de jogos em Pixel Art
+   🍓 Amo morangos
 </pre>
 <br>
 <h3 >Skills</h3> 
