@@ -1,16 +1,13 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/a9b6905e-3944-4822-a93d-fe2f1dae7208">
+  <img src="https://github.com/user-attachments/assets/a9b6905e-3944-4822-a93d-fe2f1dae7208" width="600">
 </div>
 <h3 align="center">
   Olá, sou Lívia. Seja bem-vindo ao meu perfil!
-
-
 </h3>
 <div align="center">
   <p><em>Desenvolvedora de Software Full Stack focada em soluções modernas</em></p>
   <p><em>Buscando constantemente novos desafios e aprendizados no desenvolvimento web.</em></p>
 </div>
-<br>
 <p align="center">
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Github-Dark.svg" width="40" >
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Figma-Dark.svg" width="40" >
