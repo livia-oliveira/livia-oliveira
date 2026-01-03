@@ -25,12 +25,6 @@ Desenvolvedora Full Stack apaixonada por criar soluções modernas. <br>
 
 ## 📬 Contato
 <a href="mailto:livia0liveirasilva55@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> <a href="LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</div>
-<br>
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=livia-oliveira&show_icons=true&theme=buefy&include_all_commits=true&count_private=true" />
-  <img height="180" src="https://streak-stats.demolab.com/?user=livia-oliveira&theme=buefy" />
-</p>
 <br>
 <p align="center">
    <em>Thank you for visiting! 🍓</em>
