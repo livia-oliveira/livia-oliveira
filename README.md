@@ -18,6 +18,7 @@
 <p/>
 <br>
 <div align="center">
+  
 ## 🍓 Sobre mim
 Desenvolvedora Full Stack apaixonada por criar soluções modernas. <br>
 🎮 Fã de Pixel Art | 🍓 Apaixonada por morangos
