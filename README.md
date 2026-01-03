@@ -18,15 +18,14 @@
 <p/>
 <br>
 <div align="center">
-
 ## 🍓 Sobre mim
 Desenvolvedora Full Stack apaixonada por criar soluções modernas. <br>
 🎮 Fã de Pixel Art | 🍓 Apaixonada por morangos
 
 ## 📬 Contato
 <a href="mailto:livia0liveirasilva55@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> <a href="LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-
 </div>
+<br>
 <div style="display: flex; justify-content: center; gap: 20px;">
 <img alt="Lívia GitHub stats" src="https://github-readme-stats.vercel.app/api?username=livia-oliveira&show_icons=true&theme=buefy&card_width=300"/>
 <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=livia-oliveira&theme=buefy&card_width=350" >
