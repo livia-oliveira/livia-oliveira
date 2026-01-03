@@ -27,7 +27,11 @@ Desenvolvedora Full Stack apaixonada por criar soluções modernas. <br>
 <a href="mailto:livia0liveirasilva55@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> <a href="LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <br>
 <p align="center">
-   <em>Thank you for visiting! 🍓</em>
+<br>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=livia-oliveira&color=ff5a5f&style=plastic&label=Visualizações" />
+</p>
+   <em>Obrigada por sua visita! 🍓</em>
 </p>
 </div>
 
